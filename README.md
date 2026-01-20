@@ -4,10 +4,10 @@
 **Kelas:** TIF 23 RP CNS A  
 
 ## Fitur Aplikasi:
-- Login & Register Admin
-- Booking Lapangan (Futsal, Basket, Badminton)
-- Hitung Otomatis Harga Paket
-- Manajemen Data (CRUD)
-- Laporan Reservasi (Cetak PDF/Print)
+* Login Admin (User: `admin`, Pass: `@Bismillah123`)
+* Dashboard Manajemen Data
+* CRUD Data Booking
+* Export Laporan (PDF/Excel)
+* Tampilan Responsif
 ## Link Web
 - http://fasaaafield.my.id
